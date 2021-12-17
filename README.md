@@ -7,4 +7,4 @@ And after that the video will be uploaded to youtube with the help of youtube ap
 to know more about the youtube api reffer to https://developers.google.com/youtube/v3
 
 To watch the youtube video on this project visit : STRANGE LEARNINGS
-Video link: 
+Video link: https://youtu.be/My4Ouz-tgmM
